@@ -1,0 +1,12 @@
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\bin\Debug\Park Otomasyonu.exe.config
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\bin\Debug\Park Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\bin\Debug\Park Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park_Otomasyonu.Form1.resources
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park_Otomasyonu.Properties.Resources.resources
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park Otomasyonu.csproj.GenerateResource.cache
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park Otomasyonu.exe
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park Otomasyonu.pdb
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park_Otomasyonu.anaform.resources
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park_Otomasyonu.parkyeri.resources
+C:\Users\muham\OneDrive\Masaüstü\C# Projeleri\Park Otomasyonu\Park Otomasyonu\obj\Debug\Park Otomasyonu.csproj.AssemblyReference.cache
